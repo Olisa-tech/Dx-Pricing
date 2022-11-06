@@ -67,7 +67,7 @@ header h3 {
 }
 
 .line{
-    height: 100vh;
+    height: 80vh;
     width: 2px;
     background: black;
     margin-right: 30px;
@@ -75,12 +75,19 @@ header h3 {
     
 }
 
-.content-holder{
-    padding: 10px, 20px;
+.content-holder p{
+    /* padding: 10px, 20px; */
+    margin-bottom: 10px;
+    
 
 }
+.content-holder h2 {
+margin-bottom: 40px;
+}
+
 
 .content-holder span{
+
     font-size: 40px;
 }
 
